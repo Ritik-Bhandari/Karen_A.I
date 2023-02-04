@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://karen-a-i-3uvh.vercel.app/', {
+    const response = await fetch('https://https://karen-a-i-vzb1.vercel.app/', {
     
         method: 'POST',
         headers: {
